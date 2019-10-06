@@ -4,7 +4,7 @@ var pubnub = new PubNub({
     subscribe_key: 'sub-c-0c5d50ea-fb04-11e6-8fcb-0619f8945a4f'
 });
 
-var status= 'Offline'
+var status= 'Loading ...'
 // Our labels along the x-axis
 //var years = [1500,1600,1700,1750,1800,1850,1900,1950,1999,2050];
 // For drawing the lines
